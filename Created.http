@@ -1,0 +1,8 @@
+POST http://0.0.0.0:8081/api/products
+Content-type: application/json
+Accept: application/json
+
+{
+    "title" : "1",
+    "image" : "2"
+}
